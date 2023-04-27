@@ -1,6 +1,6 @@
 // Set environment variables
 process.env.EMAIL_USERNAME = 'youremail@gmail';
-process.env.EMAIL_PASSWORD = 'two factor auythcation genrated by google';
+process.env.EMAIL_PASSWORD = 'two factor authentication genrated by google';
 process.env.EMAIL_HOST = 'smtp.gmail.com';
 process.env.EMAIL_PORT = 993;
 process.env.EMAIL_USE_TLS = 'true';
